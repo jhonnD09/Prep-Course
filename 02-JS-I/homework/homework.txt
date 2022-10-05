@@ -1,0 +1,12 @@
+Variables: Es un espacio en memoria, que contiene un valor.
+
+Strings: Es una secuencia de caracteres usado para representar el texto ("").
+
+Funciones (argumentos, return): Una función es un bloque de código que realiza alguna operación.
+Argumentos: es una variable utilizada para recibir valores de entrada en una rutina. Dichos valores,
+ que serán invocados, son llamados argumentos.
+Return: Es una instrucción que termina la ejecución de una función y devuelve el control a la función de llamada.
+
+Declaraciones: Una declaración determina el nombre y el tipo de datos de una variable u otro elemento.
+
+Valores Booleanos (true, false): Un valor booleano representa un valor de verdad; es decir (Verdadero o Falso).
