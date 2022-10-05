@@ -1,0 +1,10 @@
+For: Es una instrucciòn que permite repetir una instrucción o una instrucción compuesta un número especificado de veces.
+
+Operadores logicos (`&&`, `||`, `!`):Los operadores lógicos se usan para combinar dos valores Booleanos
+ y devolver un resultado verdadero, falso o nulo.
+
+`&&` : Este operador es verdadero solo si los dos Operando son verdaderos.
+
+`||` : Este operador es verdadero solo si uno de los dos Operando son verdaderos.
+
+`!` : Este operador invierte la condicion del Operando.
