@@ -223,7 +223,7 @@ function continueStatement(numero) {
   for ( var i = 0; i < 10; i++){
   if (i === 5 ){continue}
 
-  numero = numero + 2;
+  numero = numero + 2
   array.push(numero)
   }
   return array
