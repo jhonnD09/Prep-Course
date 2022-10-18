@@ -1,0 +1,1 @@
+Arrays : Es un tipo especial de variable que se utiliza para almacenar multiples elementos. A su vez es un tipo de objeto.
