@@ -1,0 +1,11 @@
+Objetos: Es un tipo de dato que se utiliza para guardar colecciones de pares clave-valor.
+
+Propiedades: Es un miembro que proporciona un mecanismo flexible para leer, escribir o calcular el valor de un campo privado.
+
+Metodos: Es una funcion que pertenece a un objeto.
+
+Bucle For...in: Itera sobre todas las propiedades de cadena enumerables de un objeto (ignorando las propiedades codificadas
+ por simbolos), incñuidas las propiedades enumerables heredadas.
+
+Notacion de puntos: La notación con corchetes, a diferencia de la notación con punto,
+ puede usarse con variables Si usas una variable con notación con corchetes, la variable debe hacer referencia a una string.
