@@ -151,7 +151,7 @@ function todosIguales(arreglo) {
   //Escribe tu código aquí  
   for(i = 0; i < arreglo.length; i++){
   if(arreglo[i] !== arreglo[i+1]){return false}
-  return true}
+  else return true
 } 
 
 
@@ -223,7 +223,7 @@ function continueStatement(numero) {
   for ( var i = 0; i < 10; i++){
   if (i === 5 ){continue}
 
-  numero = numero + 2
+  numero = numero + 2;
   array.push(numero)
   }
   return array
